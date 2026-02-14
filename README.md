@@ -1,5 +1,8 @@
 # 💫 About Me:
-I've completed my Master's in Data Science from University of Bradford.<br>I have done many renowned DS certificates from recognized companies and <br>also done some virtual internships, gaining some virtual experience of my <br>field.
+Data Analyst delivering structured reporting, statistical analysis, and performance dashboards across corporate and applied analytics projects.
+Experienced in working with multi-source datasets to strengthen data accuracy, standardize KPI logic, and improve reporting efficiency.
+Core stack includes SQL, Python, Excel, Power BI, and Tableau, applied across revenue analytics and customer behavior analysis.
+
 
 
 ## 🌐 Socials:
